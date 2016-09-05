@@ -1,0 +1,8 @@
+{
+    "name": "daHaimi/php-ntlm",
+    "version": "0.1",
+    "dist": {
+        "url": "https://github.com/daHaimi/php-ntlm.git",
+        "type": "git"
+    }
+}
