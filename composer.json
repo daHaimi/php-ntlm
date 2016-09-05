@@ -4,5 +4,7 @@
     "dist": {
         "url": "https://github.com/daHaimi/php-ntlm.git",
         "type": "git"
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
